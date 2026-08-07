@@ -49,14 +49,14 @@
 
 ## <img src="assets/icons/box.svg" width="22" height="22" /> Supported Ecosystems
 
-| Ecosystem | Target Directory | Description | Default Action |
-| :--- | :--- | :--- | :---: |
-| **Node.js / Web** | `node_modules` | Package dependencies cache | <img src="assets/icons/check-circle.svg" width="16" height="16" /> Recycle Bin |
-| **Rust / Cargo** | `target/` | Compiled Rust binaries and intermediate build artifacts | <img src="assets/icons/check-circle.svg" width="16" height="16" /> Recycle Bin |
-| **Android / Java** | `.gradle/` | Gradle build cache and wrapper dependencies | <img src="assets/icons/check-circle.svg" width="16" height="16" /> Recycle Bin |
-| **Next.js** | `.next/` | Next.js build cache and static output | <img src="assets/icons/check-circle.svg" width="16" height="16" /> Recycle Bin |
-| **Turborepo** | `.turbo/` | Turborepo build cache | <img src="assets/icons/check-circle.svg" width="16" height="16" /> Recycle Bin |
-| **Python** | `__pycache__`, `.pytest_cache`, `.mypy_cache` | Bytecode, test, and type-check caches | <img src="assets/icons/check-circle.svg" width="16" height="16" /> Recycle Bin |
+| Ecosystem | Target Directory | Description |
+| :--- | :--- | :--- |
+| **Node.js / Web** | `node_modules` | Package dependencies cache |
+| **Rust / Cargo** | `target/` | Compiled Rust binaries and intermediate build artifacts |
+| **Android / Java** | `.gradle/` | Gradle build cache and wrapper dependencies |
+| **Next.js** | `.next/` | Next.js build cache and static output |
+| **Turborepo** | `.turbo/` | Turborepo build cache |
+| **Python** | `__pycache__`, `.pytest_cache`, `.mypy_cache` | Bytecode, test, and type-check caches |
 
 ---
 
