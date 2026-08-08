@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://uncached.app"><img src="https://img.shields.io/badge/Website-uncached.app-b9d98d?style=for-the-badge&logoColor=101311" alt="Website" /></a>
   <img src="https://img.shields.io/badge/Privacy-100%25_Local-101311?style=for-the-badge" alt="100% Local" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
 </p>
 
 ---
