@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td width="30" align="center" valign="top"><img src="assets/icons/check-circle.svg" width="18" height="18" /></td>
-    <td><strong>Blazing Fast Scanning</strong>: Instantly scans tens of thousands of project directories in seconds.</td>
+    <td><strong>Fast Scanning</strong>: Instantly scans tens of thousands of project directories in seconds.</td>
   </tr>
   <tr>
     <td width="30" align="center" valign="top"><img src="assets/icons/check-circle.svg" width="18" height="18" /></td>
@@ -73,4 +73,3 @@
 
 - **Website & Documentation**: [uncached.app](https://uncached.app)
 - **Organization**: [github.com/uncached-app](https://github.com/uncached-app)
-- **License**: MIT
